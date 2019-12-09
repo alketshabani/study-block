@@ -1,4 +1,6 @@
+# Our site
 [url](https://alketshabani.github.io/study-block/)
+
 # The Team
 
 ## Fati Sylqa
@@ -24,5 +26,5 @@ Attending to customers complains and resolving it within a short period of time.
 ## Braschi Velasquez Giancarlo
 ### Networking
 
-Finished bachelor degree in System Engineering and Informatics in CZU. 
+Finished bachelor degree in System Engineering and Informatics in CZU.
 Currently i'm working as Network Security Specialist in pharmaceutical company MSD.
